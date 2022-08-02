@@ -1,0 +1,6 @@
+{
+  "appTitle": "designer_arch",
+  "@appTitle": {
+    "description": "The title of the application"
+  }
+}
